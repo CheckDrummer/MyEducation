@@ -26,9 +26,8 @@ public class ArraysAndCollections {
         System.out.println("a:");
         for(int aaa: a)
             System.out.print(aaa);
-
+        System.out.println(" ");
         System.out.println("b:");
-
         for(int aaa: b)
             System.out.print(aaa);
 
