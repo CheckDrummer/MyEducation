@@ -1,5 +1,9 @@
 package Learn2;
 
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.FutureTask;
+
 class MyThread extends Thread {
     MyThread (String name) {
         super(name);
@@ -33,30 +37,37 @@ class MyRunnable implements Runnable {
     }
 }
 
+class MyCallable implements Callable<Integer>{
+    @Override
+    public Integer call() throws Exception {
+        return 3;
+    }
+}
 
 public class ThreadTest {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ExecutionException, InterruptedException {
         Thread mainThread = Thread.currentThread();
 		System.out.println(mainThread.getPriority());
 
 
 
-		System.out.println("Главный поток начал работу...");
-		new MyThread("Дочерний").start();
-		System.out.println("Главный поток завершил работу...");
+//		System.out.println("Главный поток начал работу...");
+//		new MyThread("Дочерний").start();
+//		System.out.println("Главный поток завершил работу...");
 
 
 
-		System.out.println("Главный поток начал работу...");
-		MyThread t = new MyThread("Дочерний");
-		try {
-			t.start();
-			t.join();
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
-		System.out.println("Главный поток завершил работу...");
+//		System.out.println("Главный поток начал работу...");
+//		MyThread t = new MyThread("Дочерний");
+//		try {
+//			t.start();
+//			t.join();
+//		} catch (InterruptedException e) {
+//			e.printStackTrace();
+//		}
+//		System.out.println("Главный поток завершил работу...");
+
 
 
 //		System.out.println("Главный поток начал работу...");
@@ -68,5 +79,12 @@ public class ThreadTest {
 //			e.printStackTrace();
 //		}
 //		System.out.println("Главный поток завершил работу...");
+
+
+
+        Callable<Integer> myCallable = new MyCallable();
+        FutureTask futureTask = new FutureTask(myCallable);
+        new Thread(futureTask).start();
+        System.out.println(futureTask.get());
     }
 }

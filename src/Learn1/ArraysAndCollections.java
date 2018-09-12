@@ -14,6 +14,27 @@ public class ArraysAndCollections {
             System.out.println(num);
         }
 
+        System.out.println(" ");
+        System.out.println("Array - по значению или по ссылке");
+        int[] integerArray = new int[2];
+        Integer integer1 = new Integer(1);
+        Integer integer2 = integer1;
+        integerArray[0] = integer1;
+        integerArray[1] = integer2;
+        integer1 = new Integer(2);
+
+        System.out.println(integerArray[0]);
+        System.out.println(integerArray[1]);
+
+//        ArrayList<Integer> integerArrayList = new ArrayList<>();
+//        integerArrayList.add(integer1);
+//        System.out.println(integerArrayList.get(0));
+//
+//        integer1 = new Integer(2);
+////        integerArrayList.add(integer1);
+//        System.out.println(integerArrayList.get(0));
+////        System.out.println(integerArrayList.get(1));
+
 
 
         System.out.println(" ");
@@ -23,6 +44,7 @@ public class ArraysAndCollections {
         List<Integer> b = new ArrayList<>();
         b.add(3);
         b.add(4);
+        //b.set(5,8);  //ошибка
         System.out.println("a:");
         for(int aaa: a)
             System.out.print(aaa);

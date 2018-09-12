@@ -14,5 +14,6 @@ public class ExecutorServiceTest {
 				}
 			});
 		}
+		service.shutdown();
     }
 }
