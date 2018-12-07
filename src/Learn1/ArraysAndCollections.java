@@ -26,32 +26,36 @@ public class ArraysAndCollections {
         System.out.println(integerArray[0]);
         System.out.println(integerArray[1]);
 
-//        ArrayList<Integer> integerArrayList = new ArrayList<>();
-//        integerArrayList.add(integer1);
-//        System.out.println(integerArrayList.get(0));
-//
-//        integer1 = new Integer(2);
-////        integerArrayList.add(integer1);
-//        System.out.println(integerArrayList.get(0));
-////        System.out.println(integerArrayList.get(1));
+        int [] a = {1,2,3};
+        System.out.println("a:");
+        for(int aaa: a)
+            System.out.print(aaa);
 
 
 
         System.out.println(" ");
         System.out.println("Простой ArrayList");
 
-        int [] a = {1,2,3};
         List<Integer> b = new ArrayList<>();
         b.add(3);
         b.add(4);
         //b.set(5,8);  //ошибка
-        System.out.println("a:");
-        for(int aaa: a)
-            System.out.print(aaa);
+
         System.out.println(" ");
         System.out.println("b:");
         for(int aaa: b)
             System.out.print(aaa);
+
+        ArrayList<Integer> integerArrayList = new ArrayList<>();
+        integerArrayList.add(integer1);
+        System.out.println(integerArrayList.get(0));
+
+        integer1 = new Integer(2);
+        integerArrayList.add(integer1);
+        System.out.println(integerArrayList.get(0));
+        System.out.println(integerArrayList.get(1));
+//        integerArrayList.set(5, integer1);  //ошибка
+//        System.out.println(integerArrayList.get(5));  //ошибка
 
 
 

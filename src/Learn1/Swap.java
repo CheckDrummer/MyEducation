@@ -15,8 +15,8 @@ public class Swap {
 
     public static void tricky(Point arg1, Point arg2)
 	{
-		arg1.x = 100;
-		arg1.y = 100;
+//		arg1.x = 100;
+//		arg1.y = 100;
 		Point temp = arg1;
 		arg1 = arg2;
 		arg2 = temp;
@@ -35,7 +35,7 @@ public class Swap {
 
 
 
-        Point pnt1 = new Point(0, 0);
+        Point pnt1 = new Point(20, 20);
         Point pnt2 = new Point(0, 0);
         System.out.println("pnt1.X: " + pnt1.x + ", pnt1.Y: " + pnt1.y);
         System.out.println("pnt2.X: " + pnt2.x + ", pnt2.Y: " + pnt2.y);

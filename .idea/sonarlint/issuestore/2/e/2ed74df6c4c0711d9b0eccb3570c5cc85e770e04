@@ -1,0 +1,9 @@
+
+|"squid:ClassVariableVisibilityCheck"PMake sort a static final constant or non-public and provide accessors if needed.(¯¤
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖâÒí
+•squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷¹ùI
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(şå£Ëÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áÌ†ÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ì¬Çıÿÿÿÿ

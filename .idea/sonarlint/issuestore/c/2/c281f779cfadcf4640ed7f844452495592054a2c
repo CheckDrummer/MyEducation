@@ -1,0 +1,28 @@
+
+Rsquid:S1854"8Remove this useless assignment to local variable "arg1".(’¶ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(£è®ªşÿÿÿÿ
+Rsquid:S1854"8Remove this useless assignment to local variable "arg2".(½Ôÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(â·Û¸ûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËüşÆ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(£è®ªşÿÿÿÿ
+Rsquid:S1854"8Remove this useless assignment to local variable "var2".(°àÀşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞªìÈÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¨
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(±õŠÊüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞªìÈÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(±õŠÊüÿÿÿÿ
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ¡”ö
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ

@@ -28,8 +28,6 @@ class Two extends One {
     @Override
     public boolean equals(Object o) {
         if (!super.equals(o)) return false;
-        if (this == o) return true;
-        if (o.getClass() != this.getClass()) return false;
         Two two = (Two) o;
         return j == two.j;
     }
@@ -46,8 +44,6 @@ class Three extends Two {
     @Override
     public boolean equals(Object o) {
         if (!super.equals(o)) return false;
-        if (this == o) return true;
-        if (o.getClass() != this.getClass()) return false;
         Three three = (Three) o;
         return k == three.k;
     }

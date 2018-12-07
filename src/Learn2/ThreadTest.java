@@ -53,13 +53,13 @@ public class ThreadTest {
 
 
 //		System.out.println("Главный поток начал работу...");
-//		new MyThread("Дочерний").start();
+//		new LessonThread("Дочерний").start();
 //		System.out.println("Главный поток завершил работу...");
 
 
 
 //		System.out.println("Главный поток начал работу...");
-//		MyThread t = new MyThread("Дочерний");
+//		LessonThread t = new LessonThread("Дочерний");
 //		try {
 //			t.start();
 //			t.join();
