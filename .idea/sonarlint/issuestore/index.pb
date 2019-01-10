@@ -17,3 +17,5 @@ T
 $src/Learn1/ArraysAndCollections.java,d/b/db8ce625a6b7a9d2f6acbdccfedfbe3776592f13
 L
 src/Learn6/LessonThread.java,3/4/343ebfdf5c6bc68cf90cc1bc89158267be63bb34
+J
+src/Learn1/StringTest.java,0/4/0495a0447aeaff64acf24bee78dbabe7a1fc876c

@@ -1,52 +1,52 @@
 
-jsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ºçÜşÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Íñß°ıÿÿÿÿ
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(ô€ÅF
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ«ˆ%
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÕ¬àÿÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ª‘½üüÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Îê“€ùÿÿÿÿ
-usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ì¬Çıÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ü»²ö
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ş—©Ú
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(ô€ÅF
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ËÂŒ¢
-jsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(‘š¼Êøÿÿÿÿ
-squid:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ş—©Ú
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ø­¹Ğ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ëâ®ˆ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(µˆî
-”squid:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(é•Èàøÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
-jsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(é•Èàøÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ßà¨«ûÿÿÿÿ
-squid:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(µˆî
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(€¤Ç¾ûÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ì¬Çıÿÿÿÿ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ĞÕ¬àÿÿÿÿÿ
+lsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Ş—©Ú
+N
+squid:S106@"9Replace this use of System.out or System.err by a logger.(æ«ˆ%
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ëâ®ˆ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(µˆî
+lsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ºçÜşÿÿÿÿ
+–squid:S2159?"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(é•Èàøÿÿÿÿ
+lsquid:S1206-"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(Ü»²ö
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(Íñß°ıÿÿÿÿ
+T
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ßà¨«ûÿÿÿÿ
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
+‘squid:S2159O"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ş—©Ú
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(‘š¼Êøÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(é•Èàøÿÿÿÿ
+T
+squid:S106T"9Replace this use of System.out or System.err by a logger.(Îê“€ùÿÿÿÿ
+O
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ËÂŒ¢
+‘squid:S2159;"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(µˆî
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ø­¹Ğ
+N
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ô€ÅF
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ª‘½üüÿÿÿÿ
+T
+squid:S106H"9Replace this use of System.out or System.err by a logger.(€¤Ç¾ûÿÿÿÿ
+N
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ô€ÅF
