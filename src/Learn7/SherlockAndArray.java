@@ -22,6 +22,9 @@ public class SherlockAndArray {
             if (leftSumFromLeftSide == rightSumFromLeftSide || leftSumFromRightSide == rightSumFromRightSide)
                 return true;
 
+            if (leftSumFromLeftSide > rightSumFromLeftSide || leftSumFromRightSide < rightSumFromRightSide )
+                return false;
+
             leftSumFromLeftSide = leftSumFromLeftSide + arr[i];
             rightSumFromLeftSide = rightSumFromLeftSide - arr[i];
 
@@ -40,9 +43,11 @@ public class SherlockAndArray {
         System.out.println(isSherlock(new int[]{ 8, 8 }));
         System.out.println(isSherlock(new int[]{ 8, 3 }));
 
-
         System.out.println(isSherlock(new int[]{ 2, 8, 9, 1, 15, 5 }));
         System.out.println(isSherlock(new int[]{ 2, 8, 9, 1, 150, 5 }));
+
+        System.out.println(isSherlock(new int[]{ 20, 80, 9, 1, 2, 3 }));
+        System.out.println(isSherlock(new int[]{ 1, 2, 3, 20, 80, 9 }));
 
     }
 }

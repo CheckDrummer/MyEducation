@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="355b92d2-aae0-47fc-934e-50e29d8af4b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Learn7/SherlockAndArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn7/SherlockAndArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn7/SherlockAndArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +17,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Learn6/LessonThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
+            <state relative-caret-position="120">
               <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding>
                 <element signature="e#1065#1066#0" expanded="true" />
@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Learn7/SherlockAndArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+            <state relative-caret-position="774">
+              <caret line="42" column="47" lean-forward="true" selection-start-line="42" selection-start-column="47" selection-end-line="47" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -46,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/Learn1/ArraysAndCollections.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -54,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Learn1/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="-139">
               <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
@@ -130,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +152,12 @@
               <item name="MyEducation" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyEducation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyEducation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Learn7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,6 +168,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -170,7 +176,7 @@
     <property name="SearchEverywhereHistoryKey" value="prio&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557819062971" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557819074299" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -385,26 +391,25 @@
       <workItem from="1544190843714" duration="2709000" />
       <workItem from="1544541029480" duration="625000" />
       <workItem from="1544799199394" duration="553000" />
-      <workItem from="1557755735951" duration="3006000" />
+      <workItem from="1557755735951" duration="3735000" />
+      <workItem from="1557820863365" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72790000" />
+    <option name="totallyTimeSpent" value="73769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3684" y="12" width="1758" height="1003" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18464243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1869871" />
       <window_info id="Structure" order="1" weight="0.2532189" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18049328" />
@@ -412,13 +417,13 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41838133" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23430493" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.1989026" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="BPMNPalette" />
+      <window_info anchor="bottom" id="Docker" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,6 +435,8 @@
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+      <window_info anchor="right" id="BPMNPalette" order="12" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -465,6 +472,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Learn7/SherlockAndArray.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyEducation.iml">
@@ -626,7 +645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Learn6/LessonThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
+        <state relative-caret-position="120">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding>
             <element signature="e#1065#1066#0" expanded="true" />
@@ -641,24 +660,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Learn1/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Learn1/ArraysAndCollections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Learn1/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Learn7/SherlockAndArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+        <state relative-caret-position="774">
+          <caret line="42" column="47" lean-forward="true" selection-start-line="42" selection-start-column="47" selection-end-line="47" selection-end-column="61" />
         </state>
       </provider>
     </entry>
